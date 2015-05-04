@@ -1,4 +1,5 @@
-# Default is "World"
+# Default is World
+# Author: Snir Shilderman (sshilderman@gmail.com)
 import sys
 name = "World"
 if len(sys.argv) > 1:
