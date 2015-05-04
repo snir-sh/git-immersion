@@ -1,3 +1,4 @@
+# Default is "World"
 import sys
 name = "World"
 if len(sys.argv) > 1:
